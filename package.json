@@ -1,0 +1,17 @@
+{
+	"name": "dc-api-cli",
+	"version": "0.1.0",
+	"description": "CLI utility for dc-api-core",
+	"main": "index.js",
+	"bin": {
+		"dс-api-cli": "index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DimaCrafter/dc-api-cli.git"
+	},
+	"author": "DimaCrafter",
+	"license": "MIT",
+	"bugs": "https://github.com/DimaCrafter/dc-api-cli/issues",
+	"homepage": "https://github.com/DimaCrafter/dc-api-cli"
+}
